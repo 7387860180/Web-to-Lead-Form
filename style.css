@@ -35,9 +35,8 @@ form {
     border: 2px solid black;
     padding: 15px;
 }
-
-/*
-margin top right bottom left
-margin 25px 15px 75px 50px
-marging 25px auto 0 auto
-*/
+.g-recaptcha {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
